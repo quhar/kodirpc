@@ -5,8 +5,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/Sirupsen/logrus"
 	"github.com/pdf/kodirpc"
+	"github.com/sirupsen/logrus"
 )
 
 func ExampleClient() {
