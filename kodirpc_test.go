@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/pdf/kodirpc"
+	"github.com/quhar/kodirpc"
 	"github.com/sirupsen/logrus"
 )
 
